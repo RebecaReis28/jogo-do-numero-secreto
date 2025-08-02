@@ -1,8 +1,8 @@
  🎯 Jogo do Número Secreto
 
-Bem-vindo ao meu joguinho simples, mas viciante! Desenvolvido com HTML, CSS e JavaScript, o objetivo aqui é testar sua sorte (e lógica 👀) tentando adivinhar o número secreto escolhido aleatoriamente pelo sistema.
+Bem-vindo ao meu joguinho simples, mas viciante! 
+Desenvolvido com HTML, CSS e JavaScript, o objetivo aqui é testar sua sorte (e lógica 👀) tentando adivinhar o número secreto escolhido aleatoriamente pelo sistema.
 
----
 
 🕹️ Como funciona?
 
@@ -15,14 +15,6 @@ Você precisa digitar um número e clicar em "Chutar" para tentar adivinhar.
 - 📈 *"O número secreto é maior"*  
 - ✅ *"Você acertou!"*
 
----
-
-📸 Preview
-
-![preview do jogo](./preview.gif)  
-*Exemplo de interação com o jogo.*
-
----
 
 🚀 Tecnologias usadas
 
