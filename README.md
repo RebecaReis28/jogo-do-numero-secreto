@@ -20,7 +20,7 @@ Você precisa digitar um número e clicar em "Chutar" para tentar adivinhar.
 
 - 🎨 HTML5
 - 💅 CSS3
-- 💻 JavaScript (puro)
+- 💻 JavaScript 
 
 
 🛠️ Como rodar o projeto?
